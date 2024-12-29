@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1> COSAS QUE HACER ESTA NAVIDAD</h1>
-  <p> En esta tarea se reuqiere la realzación de una página web y su consecuente publicación en GitHub con los sigueinetes requisitos: </p>
+  <p> En esta tarea se requiere la realización de una página web y su consecuente publicación en GitHub con los sigueinetes requisitos: </p>
 <p> Estructura del repositorio: carpetas images, styles y scripts, y archivos README.md, LICENSE e index.html. 10 ptos.</p>  
  <p>README con explicación de la tarea y enlace a la web creada. 10 ptos.</p>  
  <p>Recurso JS de intercambio de imágenes al hacer clic sobre ellas. 10 ptos.</p>  
